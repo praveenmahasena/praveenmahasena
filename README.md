@@ -11,7 +11,7 @@
 
 ### 🧠 What I'm Working On
 
-- 🔭 Currently building: **[Postify]**
+- 🔭 Currently learning: **[AWS, DevOps]**
 - 🌱 Deepening my skills in **Golang**, **PostgreSQL**, **PHP/Laravel**, and **system design**
 - 💼 Open to freelance, contract, or full-time work (remote preferred)
 
