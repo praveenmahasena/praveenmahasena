@@ -11,7 +11,7 @@
 
 ### 🧠 What I'm Working On
 
-- 🔭 Currently learning: **[AWS, DevOps]**
+- 🔭 Currently learning: **AWS, DevOps**
 - 🌱 Deepening my skills in **Golang**, **PostgreSQL**, **Linux**, **AWS** and **system design**
 - 💼 Open to freelance, contract, or full-time work (remote preferred)
 
